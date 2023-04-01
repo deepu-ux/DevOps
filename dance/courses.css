@@ -1,0 +1,45 @@
+
+section
+{
+	background-image:url("dance1.png");
+	background-size:cover;
+	padding:10px;
+	height:2700px;
+	width:100pz;
+}
+p
+{
+font-size:20px;
+text-indent:20px;
+}
+img
+{
+float:left;
+width:200px;
+height:200px;
+padding:10px;
+}
+a{
+font-size:20px;
+text-decoration:none;
+
+}
+a:hover
+{
+background-color:white;
+}
+header
+{
+background-color:black;
+	color:white;
+	text-align:center;
+	padding:20px;
+}
+ul
+{
+list-style-type:none;
+}
+li{
+float:right;
+padding:2px;
+}

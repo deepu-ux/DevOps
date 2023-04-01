@@ -1,0 +1,41 @@
+header
+{
+background-color:black;
+	color:white;
+	text-align:center;
+	padding:20px;
+}
+section
+{
+	background-image:url("dance1.png");
+	background-size:cover;
+	padding:10px;
+	height:700px;
+	width:100pz;
+}
+p{
+font-size:20px;
+text-indent:200px;
+}
+ul
+{
+list-style-type:none;
+}
+li{
+float:right;
+padding:2px;
+}
+a:hover
+{   
+	background:white;
+	
+}
+img{
+padding:5px;
+}
+footer
+{
+background-color:black;
+color:white;
+padding:5px;
+}
